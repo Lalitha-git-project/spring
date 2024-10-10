@@ -15,7 +15,7 @@ public class Controller {
     {
         String str
                 = "<html><body><font color=\"green\">"
-                + "<h1>WELCOME To GeeksForGeeks with GIT</h1>"
+                + "<h1>WELCOME To GeeksForGeeks with GIT Action</h1>"
                 + "</font></body></html>";
         return str;
     }
